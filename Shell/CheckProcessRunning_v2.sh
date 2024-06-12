@@ -5,7 +5,7 @@ cli3=/app/kafka/confluent/etc/kafka/connect-distributed.properties
 cli4=/app/kafka/confluent/etc/schema-registry/schema-registry.properties
 cli5=/app/kafka/confluent/etc/kafka-rest/kafka-rest.properties
 cli6=/app/kafka/confluent/etc/ksqldb/ksql-server.properties
-cli7=/app/kafka/confluent/etc/kafka/connect-mm2-CHE-to-AWS-UAT.properties
+cli7=/app/kafka/confluent/etc/kafka/connect-mm2.properties
 
 ProcessList=("$cli1" "$cli2" "$cli3" "$cli4" "$cli5" "$cli6" "$cli7")
 FailProcessCount=0

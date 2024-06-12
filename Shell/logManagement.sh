@@ -2,6 +2,7 @@
 
 # Parent directory containing log directories
 application_dir="/app/microservices/project"
+service_name="service_name"
 
 # Threshold for disk usage percentage
 full_threshold=100
